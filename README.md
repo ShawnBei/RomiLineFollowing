@@ -1,5 +1,5 @@
 # RomiLineFollowing
-This Romi Line Following Challenge is a part of fulfillment of Robotic Systems
+This Romi Line Following Challenge is a part of fulfilment of Robotic Systems
 
 ## Challenge Specifications
 50% Weight: Individual Task - Demonstration of your Romi robot completing the line following challenge.
