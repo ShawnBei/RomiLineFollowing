@@ -27,6 +27,8 @@ You must demonstrate your Romi mobile robot can complete the line following chal
     b. Less than 100 mm from goal (20 points)
 
     c. Less than 50 mm from goal (35 points)
+    
+![alt text](https://github.com/ShawnBei/RomiLineFollowing/blob/master/ChallengeMap.png)
 
 ### Requirements
 
@@ -45,7 +47,6 @@ Your robot will have 150 seconds to perform the task. Your robot will have 3 cha
 - Detect the end of the line (5 points)
 - Return to home (max 35 points) 
 
-![alt text](https://github.com/ShawnBei/RomiLineFollowing/blob/master/ChallengeMap.png)
 
 1. Straight line movement
     Your robot must progress from the start location into Zone 2 without hitting any obstacles
