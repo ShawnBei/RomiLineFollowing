@@ -32,36 +32,34 @@ You must demonstrate your Romi mobile robot can complete the line following chal
 
 - You can only use the items provided with your Romi robot (line sensor array, 2 motors & encoders,).
 
-- You may not add anything to the kit. Assessment
+- You may not add anything to the kit. 
 
-### Robot performance (100 points)
+### Assessment
+
+*Robot performance (100 points)*
 
 Your robot will have 150 seconds to perform the task. Your robot will have 3 chances to complete the task. Performance will be based on the means score of these runs:
 
 - Straight line movement (30 points)
-
 - Follow a line (2 x 15 points)
-
 - Detect the end of the line (5 points)
-
 - Return to home (max 35 points) 
 
 
 1. Straight line movement
-
-Your robot must progress from the start location into Zone 2 without hitting any obstacles
+    Your robot must progress from the start location into Zone 2 without hitting any obstacles
 
 2. Follow a line
 
-Your robot must progress from zone 2 to zone 4 without hitting any obstacles (by following the line). 15 points will be given for progression from zone 2 to zone 3.
+    Your robot must progress from zone 2 to zone 4 without hitting any obstacles (by following the line). 15 points will be given for progression from zone 2 to zone 3.
 
 3. Detect the end of the line
 
-Your robot must play a tone when it believes it has entered zone 4.
+    Your robot must play a tone when it believes it has entered zone 4.
 
 4. Return to home
 
-Your robot must attempt to return to the starting position. Your robot must pause before attempting its return home so obstacles can be removed from the arena.
+    Your robot must attempt to return to the starting position. Your robot must pause before attempting its return home so obstacles can be removed from the arena.
 
 ## Marking
 
